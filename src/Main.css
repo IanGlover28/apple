@@ -1,0 +1,24 @@
+
+#section {
+    background-color: rgb(255, 255, 255);
+    background-image: url(../src/womanbg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 200px;
+   
+}
+
+h1  {
+    display: block;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding : 100px;
+    margin: 0;
+    font-size: 60px;
+}
+
+p {
+    display: flex;
+
+}
+
